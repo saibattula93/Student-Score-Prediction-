@@ -9,4 +9,5 @@ seaborn
 xgboost
 catboost
 lightgbm
+pickle
 #-e .
